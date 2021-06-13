@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clima/static/css/main.89344f24.chunk.css",
+    "main.css": "/clima/static/css/main.d6f89c9c.chunk.css",
     "main.js": "/clima/static/js/main.63ee0ddf.chunk.js",
     "main.js.map": "/clima/static/js/main.63ee0ddf.chunk.js.map",
     "runtime-main.js": "/clima/static/js/runtime-main.84d65748.js",
@@ -10,14 +10,14 @@
     "static/js/3.f20267da.chunk.js": "/clima/static/js/3.f20267da.chunk.js",
     "static/js/3.f20267da.chunk.js.map": "/clima/static/js/3.f20267da.chunk.js.map",
     "index.html": "/clima/index.html",
-    "static/css/main.89344f24.chunk.css.map": "/clima/static/css/main.89344f24.chunk.css.map",
+    "static/css/main.d6f89c9c.chunk.css.map": "/clima/static/css/main.d6f89c9c.chunk.css.map",
     "static/js/2.7d605abd.chunk.js.LICENSE.txt": "/clima/static/js/2.7d605abd.chunk.js.LICENSE.txt",
     "static/media/index.css": "/clima/static/media/Chicago2.673e610c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.84d65748.js",
     "static/js/2.7d605abd.chunk.js",
-    "static/css/main.89344f24.chunk.css",
+    "static/css/main.d6f89c9c.chunk.css",
     "static/js/main.63ee0ddf.chunk.js"
   ]
 }
